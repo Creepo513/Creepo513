@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Creepo513
-- 👀 I’m interested in ...something
+- 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...things
 - 📫 How to reach me ...Don't
 
 <!---
